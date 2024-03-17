@@ -3,6 +3,9 @@
 * **Project Title**: Topic-Based Empathic Generative Chatbot
 * **Description**:  The 3M-NLP Chatbot is an AI-based conversational agent that can understand the emotion and replicating in the responses. It is capable of engaging in general talk while also offering factual information on Reddit topics encompassing healthcare, education, environment, politics, and technology. It uses advanced natural language processing techniques, notably Named Entity Recognition, Sentiment Analysis, and leverages LLMs such as GPT-2 and RoBerta along with Information Retrieval and NLP techniques to comprehend user queries and generate accurate responses.
 
+# Chatbot Web app 
+![Chatbot webapp]()
+
 * **Getting Started**: <br />
 !pip install transformers <br />
 !pip install tensorflow_text <br />
